@@ -33,7 +33,7 @@
     </td
   </tr>
 </table>
-![252906126-c192c6bf-5150-4dc3-8bf7-5488506f69e2](https://github.com/parkyounbae/parkyounbae/assets/55349548/0d2c9dcb-f641-4e19-a11f-36959b0775c1)
+
 
 
 ### Week 2 : 🤫 Shut The Mouth!
