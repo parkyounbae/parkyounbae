@@ -82,5 +82,5 @@
 ### [Database 데베시](https://github.com/parkyounbae/HYU-DB)
 ### [Computer Network 컴네](https://github.com/parkyounbae/HYU-ComputerNetwork)
 ### [Computer Graphic 컴그](https://github.com/parkyounbae/HYU-ComputerGraphic)
-### [Micro Programming 마프](https://github.com/parkyounbae/HYU-MicroProgramming)
+
 
